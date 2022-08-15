@@ -1,3 +1,6 @@
-Hi, I am exploring my way into azure and cloud.
-Basic projects as a part of my learning uploaded here!
-I also upload repos on other topics as I learn!
+Hi! 
+
+Welcome to my Learning Space ^_^
+
+I like writing code and creating software solutions.
+This profile has basic projects on topics that I am learning at the moment.
